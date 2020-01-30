@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://liecheica.mcminos.com/sitemap.xml
